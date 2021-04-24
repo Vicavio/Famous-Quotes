@@ -1,0 +1,26 @@
+body {
+  background-color: rosybrown;
+}
+#box {
+  background-color: teal;
+  text-align: center;
+  font-size: 22px;
+  color: aliceblue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 300px;
+  height: 75px;
+  padding: 9px;
+  border-radius: 5px;
+  margin-top: 100px;
+  margin-left: 500px;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: tomato;
+  text-align: center;
+}
+#quote {
+  color: black;
+}
